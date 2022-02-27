@@ -1,5 +1,8 @@
 # yapool
 
+**Note: if you are running code on a JS engine that has native JS `Set`
+support, just use that.  This is mostly historical at this point.**
+
 Yet Another object pool in JavaScript
 
 Because [yallist](http://npm.im/yallist) is sometimes too featureful,
